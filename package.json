@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/chriskpeterson/vuepress/issues"
   },
-  "homepage": "https://github.com/chriskpeterson/vpdemo1#readme",
+  "homepage": "https://github.com/chriskpeterson/vuepress#readme",
   "dependencies": {
      "vuepress": "^0.12.0"
   }
